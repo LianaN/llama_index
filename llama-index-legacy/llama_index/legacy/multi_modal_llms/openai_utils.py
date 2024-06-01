@@ -11,6 +11,7 @@ DEFAULT_OPENAI_API_BASE = "https://api.openai.com/v1"
 
 GPT4V_MODELS = {
     "gpt-4-vision-preview": 128000,
+    "gpt-4o": 128000
 }
 
 
